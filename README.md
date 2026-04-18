@@ -17,5 +17,4 @@ I am an Electronics and Telecommunication Engineering student with a deep fascin
 - 📧 [Email](mailto:waralesarthak07@gmail.com)
 ---
 ### 📄 [Download My Resume](https://github.com/sarthak-007-code/sarthak-007-code/blob/main/Resume-Sarthak-Warale.pdf)
----
-*“In order to understand recursion, one must first understand recursion.”*
+
