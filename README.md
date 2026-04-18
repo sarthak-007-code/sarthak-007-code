@@ -2,7 +2,7 @@
 
 ### ⚡ Cybersecurity Enthusiast | ENTC Student | CTF Player
 
-I am an Electronics and Telecommunication Engineering student with a deep fascination for how software interacts with hardware. My focus lies at the intersection of **Cybersecurity** and **Embedded Systems**, specifically in Reverse Engineering, Forensics, and Low-level architecture.
+I am an Electronics and Telecommunication Engineering student with a deep fascination for how software interacts with hardware. My focus lies at the intersection of **Cybersecurity** and **Embedded Systems**.
 
 ---
 
